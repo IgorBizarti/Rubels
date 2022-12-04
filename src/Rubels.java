@@ -3,11 +3,11 @@ public class Rubels {
     public static void main(String[] args) {
 
         int baseAmount = 100;
-        int addAmount = 1020;
+        int addAmount = 1001;
 
         int bonus;
 
-        if (addAmount >= 1020) {
+        if (addAmount >= 1001) {
             bonus = addAmount / 100;
         } else {
             bonus = 0;
